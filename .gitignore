@@ -28,4 +28,4 @@ fp-info-cache
 *.xml
 *.csv
 /gerber
-/old gerber
+/old gerbers
