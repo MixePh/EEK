@@ -2596,7 +2596,7 @@
 		(uuid "4d9bd0fa-3246-46ad-89bb-05bd0788ba4c")
 		(at 86.9775 96.2741 -90)
 		(property "Reference" "U1"
-			(at 5.08 -0.5 -90)
+			(at 5.4759 -0.2725 -90)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "a13a2a16-cc0f-4881-a8b6-e8c2e27cf037")
