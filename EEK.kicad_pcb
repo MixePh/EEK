@@ -435,6 +435,17 @@
 			(pintype "passive+no_connect")
 			(uuid "50090648-b30a-46a6-825c-610dbf875e4b")
 		)
+		(model "${KICAD8_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H4.3mm.step"
+			(offset
+				(xyz -5 -11.5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 -90)
+			)
+		)
 	)
 	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 		(layer "F.Cu")
@@ -4768,6 +4779,17 @@
 			(pintype "passive+no_connect")
 			(uuid "8bb796b1-2956-4b2f-ae9f-9cb31a0a2241")
 		)
+		(model "${KICAD8_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H4.3mm.step"
+			(offset
+				(xyz -0.5 -5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 90)
+			)
+		)
 	)
 	(footprint "LED_THT:LED_D5.0mm"
 		(layer "F.Cu")
@@ -5275,6 +5297,17 @@
 			(pintype "passive+no_connect")
 			(uuid "1a15b386-11cc-4942-8486-bf827492f51e")
 		)
+		(model "${KICAD8_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H4.3mm.step"
+			(offset
+				(xyz -5 -11.5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 -90)
+			)
+		)
 	)
 	(footprint "PH_lib:SW_Tactile"
 		(layer "F.Cu")
@@ -5529,6 +5562,17 @@
 			(net 30 "unconnected-(U3-Pad4)")
 			(pintype "passive+no_connect")
 			(uuid "3a557dba-b309-4252-ada1-6f72c8d484fa")
+		)
+		(model "${KICAD8_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H4.3mm.step"
+			(offset
+				(xyz -5 -11.5 -1.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 -90)
+			)
 		)
 	)
 	(footprint "TestPoint:TestPoint_Plated_Hole_D2.0mm"
@@ -7367,6 +7411,17 @@
 			(pintype "passive+no_connect")
 			(uuid "45559a43-848f-47be-a648-1182cac9ccd4")
 		)
+		(model "${KICAD8_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H4.3mm.step"
+			(offset
+				(xyz 0 -5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 90)
+			)
+		)
 	)
 	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 		(layer "F.Cu")
@@ -7890,6 +7945,17 @@
 			(net 34 "unconnected-(U5-Pad4)")
 			(pintype "passive+no_connect")
 			(uuid "99a8ad14-8b3b-46f9-9d1f-f69bfa869941")
+		)
+		(model "${KICAD8_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H4.3mm.step"
+			(offset
+				(xyz -0.5 -5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 90)
+			)
 		)
 	)
 	(footprint "TestPoint:TestPoint_Plated_Hole_D2.0mm"
