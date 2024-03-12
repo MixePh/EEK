@@ -8504,6 +8504,282 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "165,0000 mm x 51,7500 mm"
+		(at 71.22857 155.701 0)
+		(layer "User.1")
+		(uuid "00f48876-f31c-4844-9439-5a90fa38141e")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Dimensions hors tout PCB: "
+		(at 32 155.701 0)
+		(layer "User.1")
+		(uuid "041b3156-4b5a-41ef-8a93-87b6808f0fc8")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "2"
+		(at 71.22857 151.744 0)
+		(layer "User.1")
+		(uuid "04ae26ee-69e7-4f2a-b93f-eea1f4bb945e")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text ""
+		(at 106.814279 155.701 0)
+		(layer "User.1")
+		(uuid "081edb32-2ecb-4031-a4f7-136fe393b7fe")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Pads castellated: "
+		(at 32 167.572 0)
+		(layer "User.1")
+		(uuid "0b43d2f3-8902-476e-aa12-5f6aac344113")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Finition Cuivre: "
+		(at 32 163.615 0)
+		(layer "User.1")
+		(uuid "1c7a3beb-d735-482c-9f5d-283f84b25e67")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Non"
+		(at 71.22857 171.529 0)
+		(layer "User.1")
+		(uuid "2fe4871a-3365-4991-9c6c-d747af7e95dc")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Nombre de Couches Cuivre: "
+		(at 32 151.744 0)
+		(layer "User.1")
+		(uuid "2fe88a8c-e9b9-466d-b706-ee5e3e79e338")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text ""
+		(at 139.828565 155.701 0)
+		(layer "User.1")
+		(uuid "3025083c-ace9-4734-84f4-46ca4e6fd724")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Epaisseur du PCB: "
+		(at 106.814279 151.744 0)
+		(layer "User.1")
+		(uuid "3b0e1093-af69-4458-af31-4219d877572a")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "None"
+		(at 71.22857 163.615 0)
+		(layer "User.1")
+		(uuid "3c227c9f-5594-4af1-a8b4-ff7e3289bb99")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "0,0000 mm / 0,0000 mm"
+		(at 71.22857 159.658 0)
+		(layer "User.1")
+		(uuid "451056d0-5eef-420a-afe2-6a51eb200808")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Piste / espacement min: "
+		(at 32 159.658 0)
+		(layer "User.1")
+		(uuid "585cd7c9-d13a-4985-8eb6-10720b5b2be8")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Contour du PCB Métallisé: "
+		(at 106.814279 167.572 0)
+		(layer "User.1")
+		(uuid "6907e24a-31fa-4cdc-aa02-a93b91698207")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "0,3000 mm"
+		(at 139.828565 159.658 0)
+		(layer "User.1")
+		(uuid "7c31d1be-17ff-4be1-8c5e-41bf90fb3d18")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Connecteurs de bord de cartes: "
+		(at 32 171.529 0)
+		(layer "User.1")
+		(uuid "8ca63a9f-66c5-42e3-aefd-0fab153a2753")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Non"
+		(at 139.828565 163.615 0)
+		(layer "User.1")
+		(uuid "8cb287a3-24e9-4eb8-b167-ed9aa9f40abc")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Non"
+		(at 139.828565 167.572 0)
+		(layer "User.1")
+		(uuid "bbe71bdd-65b6-46f1-b66b-393e66675593")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "CARACTÉRISTIQUES du PCB"
+		(at 31.25 146.25 0)
+		(layer "User.1")
+		(uuid "c3c961b3-065b-4edb-9414-7521d3c05d95")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.4)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Non"
+		(at 71.22857 167.572 0)
+		(layer "User.1")
+		(uuid "d938cab3-b780-46fc-9c82-a07fd1a78726")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Diamètre de trou min: "
+		(at 106.814279 159.658 0)
+		(layer "User.1")
+		(uuid "db0a5364-ca38-46db-957e-c35c6f5d3251")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Contrôle d'Impédance: "
+		(at 106.814279 163.615 0)
+		(layer "User.1")
+		(uuid "eeb32583-0fc9-43f3-9546-92de61132400")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "1,6000 mm"
+		(at 139.828565 151.744 0)
+		(layer "User.1")
+		(uuid "f9c18605-035c-4b9f-98e6-0187c82d6248")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
 	(dimension
 		(type aligned)
 		(layer "User.1")
@@ -18522,6 +18798,22 @@
 				(xy 47.5 78.4781) (xy 45.998 78.4781) (xy 43.25 78.4781) (xy 43.25 77.4781) (xy 43.269685 77.411061)
 				(xy 43.322489 77.365306) (xy 43.374 77.3541) (xy 206.198638 77.3541)
 			)
+		)
+	)
+	(group "group-boardCharacteristics"
+		(uuid "cd67a882-cb49-4bab-8c6f-49d86dd98e9e")
+		(members "00f48876-f31c-4844-9439-5a90fa38141e" "041b3156-4b5a-41ef-8a93-87b6808f0fc8"
+			"04ae26ee-69e7-4f2a-b93f-eea1f4bb945e" "081edb32-2ecb-4031-a4f7-136fe393b7fe"
+			"0b43d2f3-8902-476e-aa12-5f6aac344113" "1c7a3beb-d735-482c-9f5d-283f84b25e67"
+			"2fe4871a-3365-4991-9c6c-d747af7e95dc" "2fe88a8c-e9b9-466d-b706-ee5e3e79e338"
+			"3025083c-ace9-4734-84f4-46ca4e6fd724" "3b0e1093-af69-4458-af31-4219d877572a"
+			"3c227c9f-5594-4af1-a8b4-ff7e3289bb99" "451056d0-5eef-420a-afe2-6a51eb200808"
+			"585cd7c9-d13a-4985-8eb6-10720b5b2be8" "6907e24a-31fa-4cdc-aa02-a93b91698207"
+			"7c31d1be-17ff-4be1-8c5e-41bf90fb3d18" "8ca63a9f-66c5-42e3-aefd-0fab153a2753"
+			"8cb287a3-24e9-4eb8-b167-ed9aa9f40abc" "bbe71bdd-65b6-46f1-b66b-393e66675593"
+			"c3c961b3-065b-4edb-9414-7521d3c05d95" "d938cab3-b780-46fc-9c82-a07fd1a78726"
+			"db0a5364-ca38-46db-957e-c35c6f5d3251" "eeb32583-0fc9-43f3-9546-92de61132400"
+			"f9c18605-035c-4b9f-98e6-0187c82d6248"
 		)
 	)
 )
