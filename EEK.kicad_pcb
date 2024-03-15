@@ -8396,6 +8396,18 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "EEK "
+		(at 162 124 0)
+		(layer "F.SilkS")
+		(uuid "b4936fdb-55f1-4e3b-8b07-900587e77d3a")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.2)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "GFL"
 		(at 102.5 89.8541 0)
 		(layer "F.SilkS")
