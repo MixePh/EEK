@@ -12,6 +12,145 @@
 		(comment 1 "${author}")
 	)
 	(lib_symbols
+		(symbol "126x64_I²C_OLED_1"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 5.08 3.556 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "126x64_I²C_OLED_1_1_1"
+				(text_box "I²C OLED\n126x64"
+					(at -1.27 2.54 0)
+					(size 12.7 -13.97)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+						(justify top)
+					)
+				)
+				(pin passive line
+					(at 1.27 -13.97 90)
+					(length 2.54)
+					(name "VDD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 -13.97 90)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 6.35 -13.97 90)
+					(length 2.54)
+					(name "SCK"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 8.89 -13.97 90)
+					(length 2.54)
+					(name "SDA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Connector:TestPoint"
 			(pin_numbers hide)
 			(pin_names
@@ -395,145 +534,6 @@
 						)
 					)
 					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "PH_LIB_sym:126x64_I²C_OLED"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "U"
-				(at 5.08 3.556 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "126x64_I²C_OLED_1_1"
-				(text_box "I²C OLED\n126x64"
-					(at -1.27 2.54 0)
-					(size 12.7 -13.97)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-						(justify top)
-					)
-				)
-				(pin passive line
-					(at 1.27 -13.97 90)
-					(length 2.54)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 3.81 -13.97 90)
-					(length 2.54)
-					(name "VDD"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 6.35 -13.97 90)
-					(length 2.54)
-					(name "SCK"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 8.89 -13.97 90)
-					(length 2.54)
-					(name "SDA"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2112,6 +2112,16 @@
 	)
 	(wire
 		(pts
+			(xy 127 124.46) (xy 73.66 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4026c7e4-3640-452a-a44f-42ed1cb5369f")
+	)
+	(wire
+		(pts
 			(xy 43.18 72.39) (xy 60.96 72.39)
 		)
 		(stroke
@@ -2119,6 +2129,16 @@
 			(type default)
 		)
 		(uuid "4068a4d8-9d1a-4aa9-ae8e-81516f4c72ee")
+	)
+	(wire
+		(pts
+			(xy 124.46 121.92) (xy 76.2 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4527ce19-109e-423c-a4f2-2ba9be834813")
 	)
 	(wire
 		(pts
@@ -2192,16 +2212,6 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 124.46) (xy 73.66 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5d1de67a-595b-46dc-b6f0-07736dbb65b9")
-	)
-	(wire
-		(pts
 			(xy 73.66 107.95) (xy 80.01 107.95)
 		)
 		(stroke
@@ -2232,16 +2242,6 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 114.3) (xy 140.97 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "66c28352-47c9-41da-8619-fc52d61318b3")
-	)
-	(wire
-		(pts
 			(xy 66.04 43.18) (xy 41.91 43.18)
 		)
 		(stroke
@@ -2252,6 +2252,16 @@
 	)
 	(wire
 		(pts
+			(xy 124.46 115.57) (xy 124.46 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72526da2-31a7-4f16-9b9d-10a127259ffd")
+	)
+	(wire
+		(pts
 			(xy 60.96 68.58) (xy 78.74 68.58)
 		)
 		(stroke
@@ -2259,16 +2269,6 @@
 			(type default)
 		)
 		(uuid "75ab0a48-93ea-479f-b0ac-8e1cd4ad9d06")
-	)
-	(wire
-		(pts
-			(xy 143.51 114.3) (xy 143.51 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8202a884-628b-4d53-b806-9762e04b646e")
 	)
 	(wire
 		(pts
@@ -2392,16 +2392,6 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 121.92) (xy 76.2 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b2796f0b-dd7e-4eb6-9d50-13f44e6357a2")
-	)
-	(wire
-		(pts
 			(xy 68.58 71.12) (xy 78.74 71.12)
 		)
 		(stroke
@@ -2439,6 +2429,16 @@
 			(type default)
 		)
 		(uuid "bc758f42-6cc8-4015-8272-1921e7b72685")
+	)
+	(wire
+		(pts
+			(xy 127 115.57) (xy 127 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bccf6c13-764e-431b-bd1d-33006181e708")
 	)
 	(wire
 		(pts
@@ -2798,7 +2798,7 @@
 		(uuid "7395da7d-84e2-4c3f-9a2b-c1ec0e3945cb")
 	)
 	(label "3.3V"
-		(at 138.43 114.3 270)
+		(at 119.38 115.57 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2963,7 +2963,7 @@
 		(uuid "e5297f89-a3db-4b24-8c41-243b099c1f68")
 	)
 	(label "GND"
-		(at 135.89 114.3 270)
+		(at 121.92 115.57 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3760,6 +3760,83 @@
 			(project "EEK"
 				(path "/0a4f8f30-fcea-49ae-bc76-20e4ae5d80ad"
 					(reference "TP4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "126x64_I²C_OLED_1")
+		(lib_id "PH_LIB_sym:126x64_I²C_OLED")
+		(at 118.11 101.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4d4d91db-b54a-4690-9a04-4bd8c8d935bb")
+		(property "Reference" "U10"
+			(at 130.81 105.4099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 130.81 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 118.11 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 118.11 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 118.11 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "eb5c8328-d085-4ef8-881f-5be29995c684")
+		)
+		(pin "2"
+			(uuid "5547e64c-e0a0-421c-9e12-39987020820b")
+		)
+		(pin "4"
+			(uuid "32744bd1-19c1-4c90-a353-5e98b47c36f8")
+		)
+		(pin "1"
+			(uuid "d119226d-91df-4504-9526-8c323d96a6a6")
+		)
+		(instances
+			(project "EEK"
+				(path "/0a4f8f30-fcea-49ae-bc76-20e4ae5d80ad"
+					(reference "U10")
 					(unit 1)
 				)
 			)
@@ -4842,82 +4919,6 @@
 			(project "EEK"
 				(path "/0a4f8f30-fcea-49ae-bc76-20e4ae5d80ad"
 					(reference "R1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "PH_LIB_sym:126x64_I²C_OLED")
-		(at 134.62 100.33 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9e3d3b3d-5859-437f-9f72-fcb21da9bb11")
-		(property "Reference" "U10"
-			(at 147.32 104.1399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "~"
-			(at 147.32 106.045 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
-			(at 134.62 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 134.62 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 134.62 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "89a9b6c8-816f-48ab-a41b-1f8265efa25a")
-		)
-		(pin "3"
-			(uuid "a6cd50bc-12a3-4965-97d6-5fe53d5d7d84")
-		)
-		(pin "4"
-			(uuid "63863730-39ff-4997-9276-d0a777e9e8cc")
-		)
-		(pin "1"
-			(uuid "7ccfeb26-91b0-4e4b-9262-c3f3786d0eab")
-		)
-		(instances
-			(project "EEK"
-				(path "/0a4f8f30-fcea-49ae-bc76-20e4ae5d80ad"
-					(reference "U10")
 					(unit 1)
 				)
 			)
