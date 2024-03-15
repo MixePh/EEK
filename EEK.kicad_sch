@@ -1456,7 +1456,7 @@
 				)
 			)
 		)
-		(symbol "SW_tactile_1"
+		(symbol "PH_LIB_sym:SW_tactile"
 			(pin_names
 				(offset 0) hide)
 			(exclude_from_sim no)
@@ -1505,10 +1505,10 @@
 					(hide yes)
 				)
 			)
-			(symbol "SW_tactile_1_0_1"
+			(symbol "SW_tactile_0_1"
 				(rectangle
-					(start -1.27 -1.27)
-					(end 7.62 -11.43)
+					(start -1.27 -2.54)
+					(end 10.16 -10.16)
 					(stroke
 						(width 0)
 						(type default)
@@ -1519,7 +1519,7 @@
 				)
 				(polyline
 					(pts
-						(xy -1.27 -8.89) (xy 7.62 -8.89)
+						(xy -1.27 -8.89) (xy 10.16 -8.89)
 					)
 					(stroke
 						(width 0)
@@ -1531,7 +1531,7 @@
 				)
 				(polyline
 					(pts
-						(xy -1.27 -2.54) (xy 7.62 -2.54)
+						(xy -1.27 -3.81) (xy 10.16 -3.81)
 					)
 					(stroke
 						(width 0)
@@ -1555,7 +1555,7 @@
 				)
 				(polyline
 					(pts
-						(xy 3.81 -6.35) (xy 2.54 -3.81)
+						(xy 3.81 -6.35) (xy 2.54 -5.08)
 					)
 					(stroke
 						(width 0)
@@ -1567,7 +1567,7 @@
 				)
 				(polyline
 					(pts
-						(xy 3.81 -2.54) (xy 3.81 -3.81)
+						(xy 3.81 -3.81) (xy 3.81 -5.08)
 					)
 					(stroke
 						(width 0)
@@ -1590,9 +1590,9 @@
 					)
 				)
 			)
-			(symbol "SW_tactile_1_1_1"
+			(symbol "SW_tactile_1_1"
 				(pin passive line
-					(at -3.81 -2.54 0)
+					(at -3.81 -3.81 0)
 					(length 2.54)
 					(name ""
 						(effects
@@ -1610,7 +1610,7 @@
 					)
 				)
 				(pin passive line
-					(at 10.16 -2.54 180)
+					(at 12.7 -3.81 180)
 					(length 2.54)
 					(name ""
 						(effects
@@ -1646,7 +1646,7 @@
 					)
 				)
 				(pin passive line
-					(at 10.16 -8.89 180)
+					(at 12.7 -8.89 180)
 					(length 2.54)
 					(name ""
 						(effects
@@ -1907,15 +1907,15 @@
 		(uuid "f5adad02-d902-4994-8eef-ffc6fc8360bf")
 	)
 	(no_connect
-		(at 148.59 64.77)
+		(at 151.13 64.77)
 		(uuid "0987ab53-5621-4e83-8727-c75b936ecea0")
 	)
 	(no_connect
-		(at 180.34 38.1)
+		(at 182.88 39.37)
 		(uuid "0b302070-44e2-4092-ba0d-ae92d3819c80")
 	)
 	(no_connect
-		(at 180.34 44.45)
+		(at 182.88 44.45)
 		(uuid "112998d6-372e-4ee0-ad97-59e2ad21e2bf")
 	)
 	(no_connect
@@ -1923,11 +1923,11 @@
 		(uuid "2277a8fc-3f72-4ab7-8d7d-0d215d87c410")
 	)
 	(no_connect
-		(at 168.91 19.05)
+		(at 171.45 20.32)
 		(uuid "23637713-ffed-413f-a8f9-0e6d2341a087")
 	)
 	(no_connect
-		(at 187.96 58.42)
+		(at 190.5 59.69)
 		(uuid "23bc2fec-8bb6-4f71-9935-19807cf885f9")
 	)
 	(no_connect
@@ -1935,15 +1935,15 @@
 		(uuid "29abf587-bcd8-447d-89d7-2e0066bc10a9")
 	)
 	(no_connect
-		(at 187.96 64.77)
+		(at 190.5 64.77)
 		(uuid "2ef1ada3-1116-4071-8d64-5ec6bf4f0c48")
 	)
 	(no_connect
-		(at 146.05 26.67)
+		(at 148.59 26.67)
 		(uuid "4a3084d7-3ab2-4ce6-b90d-b0bb59f4b55f")
 	)
 	(no_connect
-		(at 160.02 38.1)
+		(at 162.56 39.37)
 		(uuid "4bf96c5b-d075-46d3-b5e8-5ebb6ed22cdc")
 	)
 	(no_connect
@@ -1955,19 +1955,19 @@
 		(uuid "82f40622-d7ab-4df3-ab02-cd87203e8a33")
 	)
 	(no_connect
-		(at 148.59 58.42)
+		(at 151.13 59.69)
 		(uuid "8c0c8406-eb0d-4df0-af7c-76a7adeb16fe")
 	)
 	(no_connect
-		(at 160.02 44.45)
+		(at 162.56 44.45)
 		(uuid "95492ce4-4b78-4bc2-83d5-240dbfcba9a5")
 	)
 	(no_connect
-		(at 168.91 25.4)
+		(at 171.45 25.4)
 		(uuid "e02cc480-97d0-4fbc-97a6-5e6d8873c34c")
 	)
 	(no_connect
-		(at 146.05 20.32)
+		(at 148.59 21.59)
 		(uuid "f28822e8-ae7f-4939-bdf0-e64edfac6cbf")
 	)
 	(wire
@@ -2656,7 +2656,7 @@
 		(uuid "3443e171-d8a9-4ea2-bfb2-df293abe3864")
 	)
 	(label "GND"
-		(at 154.94 19.05 180)
+		(at 154.94 20.32 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2667,7 +2667,7 @@
 		(uuid "3d88a29a-f1d4-4a0f-80b4-2f41f9f96da8")
 	)
 	(label "GND"
-		(at 132.08 20.32 180)
+		(at 132.08 21.59 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2677,7 +2677,7 @@
 		)
 		(uuid "40dfa850-8cf3-489a-94c7-0b628074dbab")
 		(property "Netclass" "GND"
-			(at 132.08 21.59 0)
+			(at 132.08 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2743,7 +2743,7 @@
 		(uuid "5141c194-e44f-414d-aa4b-ecaa007f5afe")
 	)
 	(label "GND"
-		(at 146.05 38.1 180)
+		(at 146.05 39.37 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2787,7 +2787,7 @@
 		(uuid "6e5bdbe3-4e68-4414-be21-4cf33903b5f0")
 	)
 	(label "GND"
-		(at 166.37 38.1 180)
+		(at 166.37 39.37 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2864,7 +2864,7 @@
 		(uuid "9a15de3a-31da-4e6c-b31e-9bed1d643d8e")
 	)
 	(label "GND"
-		(at 173.99 58.42 180)
+		(at 173.99 59.69 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2974,7 +2974,7 @@
 		(uuid "e5483cfa-3d76-42eb-a7e4-97e70bd4fb2f")
 	)
 	(label "GND"
-		(at 134.62 58.42 180)
+		(at 134.62 59.69 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3843,7 +3843,6 @@
 		)
 	)
 	(symbol
-		(lib_name "SW_tactile_1")
 		(lib_id "PH_LIB_sym:SW_tactile")
 		(at 135.89 17.78 0)
 		(unit 1)
@@ -3887,11 +3886,12 @@
 			)
 		)
 		(property "Description" "Takeoff"
-			(at 138.938 18.034 0)
+			(at 135.89 17.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -4001,7 +4001,6 @@
 		)
 	)
 	(symbol
-		(lib_name "SW_tactile_1")
 		(lib_id "PH_LIB_sym:SW_tactile")
 		(at 158.75 16.51 0)
 		(unit 1)
@@ -4045,11 +4044,12 @@
 			)
 		)
 		(property "Description" "Up"
-			(at 161.798 16.764 0)
+			(at 158.75 16.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -4139,7 +4139,6 @@
 		)
 	)
 	(symbol
-		(lib_name "SW_tactile_1")
 		(lib_id "PH_LIB_sym:SW_tactile")
 		(at 149.86 35.56 0)
 		(unit 1)
@@ -4150,7 +4149,7 @@
 		(fields_autoplaced yes)
 		(uuid "6c86532b-5647-4a30-889d-56d0e4719d0f")
 		(property "Reference" "U3"
-			(at 153.035 33.02 0)
+			(at 154.305 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4158,7 +4157,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 153.035 35.56 0)
+			(at 154.305 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4189,6 +4188,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -4213,7 +4213,6 @@
 		)
 	)
 	(symbol
-		(lib_name "SW_tactile_1")
 		(lib_id "PH_LIB_sym:SW_tactile")
 		(at 138.43 55.88 0)
 		(unit 1)
@@ -4224,7 +4223,7 @@
 		(fields_autoplaced yes)
 		(uuid "6db67a85-5369-4c8d-97a2-ff2a9c0fa9c5")
 		(property "Reference" "U5"
-			(at 141.605 53.34 0)
+			(at 142.875 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4232,7 +4231,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 141.605 55.88 0)
+			(at 142.875 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4263,6 +4262,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -5260,7 +5260,6 @@
 		)
 	)
 	(symbol
-		(lib_name "SW_tactile_1")
 		(lib_id "PH_LIB_sym:SW_tactile")
 		(at 170.18 35.56 0)
 		(unit 1)
@@ -5271,7 +5270,7 @@
 		(fields_autoplaced yes)
 		(uuid "df89670d-2397-480a-80df-fb7d3552bb0f")
 		(property "Reference" "U4"
-			(at 173.355 33.02 0)
+			(at 174.625 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5279,7 +5278,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 173.355 35.56 0)
+			(at 174.625 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5310,6 +5309,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -5771,7 +5771,6 @@
 		)
 	)
 	(symbol
-		(lib_name "SW_tactile_1")
 		(lib_id "PH_LIB_sym:SW_tactile")
 		(at 177.8 55.88 0)
 		(unit 1)
@@ -5782,7 +5781,7 @@
 		(fields_autoplaced yes)
 		(uuid "ff9670b5-cd6b-4aa8-b4b2-4b63a4a883c4")
 		(property "Reference" "U6"
-			(at 180.975 53.34 0)
+			(at 182.245 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5790,7 +5789,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 180.975 55.88 0)
+			(at 182.245 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5821,6 +5820,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "2"
