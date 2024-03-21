@@ -16,23 +16,25 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U"
-				(at 5.08 3.556 0)
+			(property "Reference" "U10"
+				(at 12.7 -3.8099 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left)
 				)
 			)
-			(property "Value" ""
-				(at 0 0 0)
+			(property "Value" "~"
+				(at 12.7 -5.715 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-4_1x04_P5.00mm_Horizontal"
 				(at 0 0 0)
 				(effects
 					(font
@@ -60,7 +62,7 @@
 				)
 			)
 			(symbol "126x64_I²C_OLED_1_1_1"
-				(text_box "I²C OLED\n126x64"
+				(text_box "I²C OLED\n128x64"
 					(at -1.27 2.54 0)
 					(size 12.7 -13.97)
 					(stroke
@@ -2200,6 +2202,18 @@
 		(uuid "24a6b27b-e812-4c12-9960-007e5eb70d4c")
 	)
 	(junction
+		(at 127 124.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3507e348-483c-42b1-9fc1-c7b1ff00eb5b")
+	)
+	(junction
+		(at 124.46 121.92)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "36d51a71-9e36-492b-afec-310c51f0808b")
+	)
+	(junction
 		(at 41.91 64.77)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2605,6 +2619,16 @@
 	)
 	(wire
 		(pts
+			(xy 127 124.46) (xy 146.05 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a27209c-1a9f-4c4d-ab4b-351608d3075c")
+	)
+	(wire
+		(pts
 			(xy 213.36 80.01) (xy 222.25 80.01)
 		)
 		(stroke
@@ -2915,6 +2939,26 @@
 	)
 	(wire
 		(pts
+			(xy 143.51 121.92) (xy 143.51 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a7d0b22a-3afe-44c1-abfa-634dbd616923")
+	)
+	(wire
+		(pts
+			(xy 146.05 124.46) (xy 146.05 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "adf5f9ff-d648-41ce-a5ea-e1ce1dd42308")
+	)
+	(wire
+		(pts
 			(xy 60.96 72.39) (xy 60.96 68.58)
 		)
 		(stroke
@@ -3185,6 +3229,16 @@
 	)
 	(wire
 		(pts
+			(xy 124.46 121.92) (xy 143.51 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef41d4a6-97e5-4132-8f34-59e949e94817")
+	)
+	(wire
+		(pts
 			(xy 43.18 105.41) (xy 50.8 105.41)
 		)
 		(stroke
@@ -3442,6 +3496,17 @@
 		(uuid "6e5bdbe3-4e68-4414-be21-4cf33903b5f0")
 	)
 	(label "GND"
+		(at 138.43 115.57 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "710536dd-b96d-4e9a-bd7e-0740d90b0788")
+	)
+	(label "GND"
 		(at 222.25 81.28 180)
 		(fields_autoplaced yes)
 		(effects
@@ -3605,6 +3670,17 @@
 			(justify left bottom)
 		)
 		(uuid "e13f4372-37c2-428e-a7be-c937d2f24f87")
+	)
+	(label "3.3V"
+		(at 140.97 115.57 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "e220ad03-1779-43c1-9150-989261cff271")
 	)
 	(label "GND"
 		(at 49.53 105.41 180)
@@ -4657,7 +4733,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-4_1x04_P5.00mm_Horizontal"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 			(at 118.11 101.6 0)
 			(effects
 				(font
@@ -5851,6 +5927,83 @@
 			(project "EEK"
 				(path "/0a4f8f30-fcea-49ae-bc76-20e4ae5d80ad"
 					(reference "TP7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "126x64_I²C_OLED_1")
+		(lib_id "PH_LIB_sym:126x64_I²C_OLED")
+		(at 137.16 101.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b4309153-f362-428e-afa6-1d56e09e8605")
+		(property "Reference" "U8"
+			(at 149.86 105.4099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 149.86 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
+			(at 137.16 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.16 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 137.16 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "e3b1e87e-3779-4ddd-bcaa-4e534af343b4")
+		)
+		(pin "2"
+			(uuid "e0d2ff27-b43f-48c8-9e51-352b8f731990")
+		)
+		(pin "4"
+			(uuid "7edd620f-bf81-48bb-9681-63a20b382ab5")
+		)
+		(pin "1"
+			(uuid "81ac28d0-e83b-47a3-8a8d-4f060e5d2553")
+		)
+		(instances
+			(project "EEK"
+				(path "/0a4f8f30-fcea-49ae-bc76-20e4ae5d80ad"
+					(reference "U8")
 					(unit 1)
 				)
 			)

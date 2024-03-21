@@ -561,6 +561,10 @@
       {
         "netclass": "Default",
         "pattern": "/Takeoff"
+      },
+      {
+        "netclass": "3.3V",
+        "pattern": "/Alim_oled"
       }
     ]
   },
