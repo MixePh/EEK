@@ -2190,6 +2190,12 @@
 		(uuid "076afc22-544f-43ee-b57f-bf7fc61e4a58")
 	)
 	(junction
+		(at 213.36 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "10c440a3-88cb-4ccf-ab46-8562f1f5d645")
+	)
+	(junction
 		(at 76.2 105.41)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2200,6 +2206,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "24a6b27b-e812-4c12-9960-007e5eb70d4c")
+	)
+	(junction
+		(at 212.09 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "313a89c9-07ac-4fc0-bcc8-b607192c23c3")
 	)
 	(junction
 		(at 127 124.46)
@@ -2220,6 +2232,12 @@
 		(uuid "56b12094-14c1-488a-885e-ee0faa1a7ba9")
 	)
 	(junction
+		(at 173.99 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "69b26c95-2762-4209-b3f9-9b6ad22cc23d")
+	)
+	(junction
 		(at 73.66 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2236,6 +2254,24 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c068f356-0e95-4ee0-8cc6-27a087045855")
+	)
+	(junction
+		(at 175.26 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c220db88-764d-4ccb-b27f-527562404f40")
+	)
+	(junction
+		(at 217.17 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d0bd5379-30ac-437d-91e7-70fbe889e298")
+	)
+	(junction
+		(at 173.99 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dbd80f19-7e8f-47c0-b063-2ad1ae49f32e")
 	)
 	(junction
 		(at 54.61 105.41)
@@ -2379,6 +2415,16 @@
 	)
 	(wire
 		(pts
+			(xy 207.01 88.9) (xy 213.36 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c25ac1c-8ff6-4205-990d-d92ba0ebec70")
+	)
+	(wire
+		(pts
 			(xy 41.91 43.18) (xy 41.91 48.26)
 		)
 		(stroke
@@ -2426,6 +2472,16 @@
 			(type default)
 		)
 		(uuid "1cbb85c9-5d05-42f0-8d18-84c0d080db77")
+	)
+	(wire
+		(pts
+			(xy 165.1 69.85) (xy 175.26 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1cfa3dec-2af6-4704-a515-7a62c7488d72")
 	)
 	(wire
 		(pts
@@ -2739,6 +2795,16 @@
 	)
 	(wire
 		(pts
+			(xy 173.99 88.9) (xy 173.99 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6641e2f6-8324-42ca-9a72-e1900f95b107")
+	)
+	(wire
+		(pts
 			(xy 226.06 100.33) (xy 226.06 101.6)
 		)
 		(stroke
@@ -2839,6 +2905,16 @@
 	)
 	(wire
 		(pts
+			(xy 213.36 88.9) (xy 213.36 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84c3fc5b-f0a9-4422-b8f6-d3212a9a358b")
+	)
+	(wire
+		(pts
 			(xy 43.18 87.63) (xy 43.18 93.98)
 		)
 		(stroke
@@ -2846,6 +2922,16 @@
 			(type default)
 		)
 		(uuid "8724479f-78e9-47ba-a8c4-df5ba4e711b0")
+	)
+	(wire
+		(pts
+			(xy 165.1 88.9) (xy 173.99 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d4d398e-b62c-4622-80e8-360c48f78890")
 	)
 	(wire
 		(pts
@@ -3079,6 +3165,16 @@
 	)
 	(wire
 		(pts
+			(xy 207.01 69.85) (xy 212.09 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c896df5f-dc08-42c8-8158-6392098ac77c")
+	)
+	(wire
+		(pts
 			(xy 76.2 105.41) (xy 80.01 105.41)
 		)
 		(stroke
@@ -3106,6 +3202,16 @@
 			(type default)
 		)
 		(uuid "ce676c84-21c1-4c9c-9ec6-08ad81f0c1b4")
+	)
+	(wire
+		(pts
+			(xy 165.1 107.95) (xy 173.99 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ceecb611-e2a1-4f38-a7ff-c1caab3d1715")
 	)
 	(wire
 		(pts
@@ -3196,6 +3302,16 @@
 			(type default)
 		)
 		(uuid "de50382d-774c-4197-8c68-4584c131b6ad")
+	)
+	(wire
+		(pts
+			(xy 207.01 107.95) (xy 217.17 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e2c8165c-1ab1-4f74-b9f3-fe7fd4bfa23e")
 	)
 	(wire
 		(pts
@@ -3298,8 +3414,8 @@
 		(uuid "f8a06a98-5f19-4894-b3b5-9e8850934b20")
 	)
 	(rectangle
-		(start 158.75 50.546)
-		(end 252.222 120.396)
+		(start 158.496 53.086)
+		(end 251.968 122.936)
 		(stroke
 			(width 0)
 			(type default)
@@ -3902,6 +4018,142 @@
 	)
 	(symbol
 		(lib_id "Device:R")
+		(at 165.1 92.71 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "026d5c95-7b42-46b5-9b1f-87047cedb3f1")
+		(property "Reference" "R9"
+			(at 167.64 91.4399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 167.64 93.9799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 163.322 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 165.1 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 165.1 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d7e48d8d-76e8-40fb-b269-0089c92dcde0")
+		)
+		(pin "2"
+			(uuid "df6d2550-ab47-4895-be11-6d225e4c4699")
+		)
+		(instances
+			(project "EEK"
+				(path "/0a4f8f30-fcea-49ae-bc76-20e4ae5d80ad"
+					(reference "R9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 207.01 96.52 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "02f6b697-2643-4e8f-98b6-a51548643119")
+		(property "Reference" "#PWR09"
+			(at 207.01 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 207.01 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 207.01 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 207.01 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 207.01 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "981ca820-8a1d-43e4-bf9b-f4821fc2fd23")
+		)
+		(instances
+			(project "EEK"
+				(path "/0a4f8f30-fcea-49ae-bc76-20e4ae5d80ad"
+					(reference "#PWR09")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
 		(at 41.91 60.96 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4190,6 +4442,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 207.01 111.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "16c632c0-afbb-4bf2-a740-71bf28c0156e")
+		(property "Reference" "R12"
+			(at 209.55 110.4899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 209.55 113.0299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 205.232 111.76 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 207.01 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 207.01 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "91798dec-f22c-4670-a659-72bc0fcaf148")
+		)
+		(pin "2"
+			(uuid "cd80f8f0-4bf3-4155-a1a2-7abaca49e135")
+		)
+		(instances
+			(project "EEK"
+				(path "/0a4f8f30-fcea-49ae-bc76-20e4ae5d80ad"
+					(reference "R12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:LED")
 		(at 57.15 52.07 90)
 		(unit 1)
@@ -4348,6 +4670,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 207.01 92.71 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2799d9af-a745-4deb-a886-e10ef497002f")
+		(property "Reference" "R10"
+			(at 209.55 91.4399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 209.55 93.9799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 205.232 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 207.01 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 207.01 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "aee8f597-7a63-44d6-8602-cc63e81c8462")
+		)
+		(pin "2"
+			(uuid "34875130-8437-4ea4-9f0f-d01130e13587")
+		)
+		(instances
+			(project "EEK"
+				(path "/0a4f8f30-fcea-49ae-bc76-20e4ae5d80ad"
+					(reference "R10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 78.74 58.42 90)
 		(unit 1)
@@ -4473,6 +4865,72 @@
 			(project "EEK"
 				(path "/0a4f8f30-fcea-49ae-bc76-20e4ae5d80ad"
 					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 207.01 115.57 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "39390ac7-5c7b-4929-8e1b-3740067c6209")
+		(property "Reference" "#PWR011"
+			(at 207.01 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 207.01 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 207.01 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 207.01 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 207.01 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "af4c77cd-ee26-4120-9f9c-9c34a46e4a77")
+		)
+		(instances
+			(project "EEK"
+				(path "/0a4f8f30-fcea-49ae-bc76-20e4ae5d80ad"
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -5049,6 +5507,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 165.1 115.57 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "559afef3-25e8-4b97-ad38-7375216089fe")
+		(property "Reference" "#PWR010"
+			(at 165.1 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 165.1 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 165.1 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 165.1 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 165.1 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "54d1a5dc-2b49-45f5-bbb6-2e4a42cd8672")
+		)
+		(instances
+			(project "EEK"
+				(path "/0a4f8f30-fcea-49ae-bc76-20e4ae5d80ad"
+					(reference "#PWR010")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "PH_LIB_sym:SW_tactile")
 		(at 223.52 59.69 0)
 		(unit 1)
@@ -5116,6 +5640,72 @@
 			(project "EEK"
 				(path "/0a4f8f30-fcea-49ae-bc76-20e4ae5d80ad"
 					(reference "U2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 207.01 77.47 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "699b85a4-2315-4de0-aa5e-34fcbfaa71d4")
+		(property "Reference" "#PWR07"
+			(at 207.01 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 207.01 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 207.01 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 207.01 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 207.01 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9f32392e-c322-4ee0-a1c7-7c64c34ebab8")
+		)
+		(instances
+			(project "EEK"
+				(path "/0a4f8f30-fcea-49ae-bc76-20e4ae5d80ad"
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -5618,6 +6208,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 165.1 77.47 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "84a38b6d-4787-4208-b5ba-f0c54b62f4c0")
+		(property "Reference" "#PWR06"
+			(at 165.1 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 165.1 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 165.1 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 165.1 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 165.1 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cad272a3-3b52-4a1c-9ae3-02be9e6c9f70")
+		)
+		(instances
+			(project "EEK"
+				(path "/0a4f8f30-fcea-49ae-bc76-20e4ae5d80ad"
+					(reference "#PWR06")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:LED")
 		(at 41.91 52.07 90)
 		(unit 1)
@@ -5703,6 +6359,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 207.01 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "87382ab9-599f-4c42-a3b6-0f59b5c99dd2")
+		(property "Reference" "R8"
+			(at 209.55 72.3899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 209.55 74.9299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 205.232 73.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 207.01 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 207.01 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1a8dd580-95ed-41c0-890a-a11408137beb")
+		)
+		(pin "2"
+			(uuid "454af2f3-8991-4e44-ad31-b7b1aa0cab57")
+		)
+		(instances
+			(project "EEK"
+				(path "/0a4f8f30-fcea-49ae-bc76-20e4ae5d80ad"
+					(reference "R8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 78.74 48.26 90)
 		(unit 1)
@@ -5762,6 +6488,72 @@
 			(project "EEK"
 				(path "/0a4f8f30-fcea-49ae-bc76-20e4ae5d80ad"
 					(reference "TP1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 165.1 96.52 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8f57358f-534c-445c-be8b-2616cbc8f73a")
+		(property "Reference" "#PWR08"
+			(at 165.1 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 165.1 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 165.1 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 165.1 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 165.1 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "093bfb12-4189-471d-9a55-e997a0791ced")
+		)
+		(instances
+			(project "EEK"
+				(path "/0a4f8f30-fcea-49ae-bc76-20e4ae5d80ad"
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -5972,6 +6764,76 @@
 			(project "EEK"
 				(path "/0a4f8f30-fcea-49ae-bc76-20e4ae5d80ad"
 					(reference "R1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 165.1 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9f84a835-692b-4ce0-9954-b9d4873716af")
+		(property "Reference" "R7"
+			(at 167.64 72.3899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 167.64 74.9299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 163.322 73.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 165.1 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 165.1 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1822cc30-9459-4925-87ad-f16255b95fe8")
+		)
+		(pin "2"
+			(uuid "5bb909b2-73e4-4e60-b6af-df988946f7ab")
+		)
+		(instances
+			(project "EEK"
+				(path "/0a4f8f30-fcea-49ae-bc76-20e4ae5d80ad"
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -7223,6 +8085,76 @@
 			(project "EEK"
 				(path "/0a4f8f30-fcea-49ae-bc76-20e4ae5d80ad"
 					(reference "C2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 165.1 111.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "efb21b09-a7a9-40e0-abaa-b87fbdf41bcc")
+		(property "Reference" "R11"
+			(at 167.64 110.4899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 167.64 113.0299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 163.322 111.76 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 165.1 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 165.1 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "847e22b7-f490-48c7-9b12-61b274611e8b")
+		)
+		(pin "2"
+			(uuid "232aac3c-05f8-4583-8b57-a8dc948073ea")
+		)
+		(instances
+			(project "EEK"
+				(path "/0a4f8f30-fcea-49ae-bc76-20e4ae5d80ad"
+					(reference "R11")
 					(unit 1)
 				)
 			)
