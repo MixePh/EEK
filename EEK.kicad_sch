@@ -4028,7 +4028,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm"
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 50.8 83.82 0)
 			(effects
 				(font
@@ -4114,7 +4114,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 163.322 92.71 90)
 			(effects
 				(font
@@ -4250,7 +4250,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 40.132 60.96 90)
 			(effects
 				(font
@@ -4319,7 +4319,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm"
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 49.53 52.07 0)
 			(effects
 				(font
@@ -4469,7 +4469,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 174.9552 107.95 0)
 			(effects
 				(font
@@ -4539,7 +4539,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 205.232 111.76 90)
 			(effects
 				(font
@@ -4608,7 +4608,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm"
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 57.15 52.07 0)
 			(effects
 				(font
@@ -4767,7 +4767,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 205.232 92.71 90)
 			(effects
 				(font
@@ -5033,7 +5033,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 176.2252 69.85 0)
 			(effects
 				(font
@@ -5443,7 +5443,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PH_lib:SW_Tactile"
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_TL3305A"
 			(at 189.23 59.69 0)
 			(effects
 				(font
@@ -5518,7 +5518,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm"
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 43.18 83.82 0)
 			(effects
 				(font
@@ -5667,7 +5667,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PH_lib:SW_Tactile"
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_TL3305A"
 			(at 223.52 59.69 0)
 			(effects
 				(font
@@ -5872,7 +5872,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PH_lib:SW_Tactile"
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_TL3305A"
 			(at 189.23 77.47 0)
 			(effects
 				(font
@@ -5946,7 +5946,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PH_lib:SW_Tactile"
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_TL3305A"
 			(at 190.5 97.79 0)
 			(effects
 				(font
@@ -6370,7 +6370,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm"
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 41.91 52.07 0)
 			(effects
 				(font
@@ -6456,7 +6456,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 205.232 73.66 90)
 			(effects
 				(font
@@ -6657,7 +6657,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 55.372 60.96 90)
 			(effects
 				(font
@@ -6727,7 +6727,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Radial_D10.0mm_H12.5mm_P5.00mm"
+		(property "Footprint" "Capacitor_SMD:C_Elec_10x10.2"
 			(at 60.6552 144.78 0)
 			(effects
 				(font
@@ -6797,7 +6797,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 41.402 97.79 90)
 			(effects
 				(font
@@ -6867,7 +6867,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 163.322 73.66 90)
 			(effects
 				(font
@@ -6936,7 +6936,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 214.3252 87.63 0)
 			(effects
 				(font
@@ -7006,7 +7006,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Radial_D10.0mm_H12.5mm_P5.00mm"
+		(property "Footprint" "Capacitor_SMD:C_Elec_10x10.2"
 			(at 84.7852 144.78 0)
 			(effects
 				(font
@@ -7284,7 +7284,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Radial_D10.0mm_H12.5mm_P5.00mm"
+		(property "Footprint" "Capacitor_SMD:C_Elec_10x10.2"
 			(at 73.3552 144.78 0)
 			(effects
 				(font
@@ -7418,7 +7418,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 218.1352 107.95 0)
 			(effects
 				(font
@@ -7619,7 +7619,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 49.022 97.79 90)
 			(effects
 				(font
@@ -7689,7 +7689,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 47.752 60.96 90)
 			(effects
 				(font
@@ -7757,7 +7757,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PH_lib:SW_Tactile"
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_TL3305A"
 			(at 228.6 77.47 0)
 			(effects
 				(font
@@ -7832,7 +7832,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 174.9552 87.63 0)
 			(effects
 				(font
@@ -8118,7 +8118,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 213.0552 69.85 0)
 			(effects
 				(font
@@ -8188,7 +8188,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 163.322 111.76 90)
 			(effects
 				(font
@@ -8257,7 +8257,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm"
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 58.42 83.82 0)
 			(effects
 				(font
@@ -8343,7 +8343,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 56.642 97.79 90)
 			(effects
 				(font
@@ -8476,7 +8476,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PH_lib:SW_Tactile"
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_TL3305A"
 			(at 229.87 97.79 0)
 			(effects
 				(font
