@@ -573,7 +573,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "gerber/",
+      "plot": "gerberV1.1/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
