@@ -2585,6 +2585,16 @@
 	)
 	(wire
 		(pts
+			(xy 62.23 58.42) (xy 78.74 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b07c4d3-1760-4a85-8449-14a4305e50e9")
+	)
+	(wire
+		(pts
 			(xy 220.98 87.63) (xy 220.98 86.36)
 		)
 		(stroke
@@ -2945,16 +2955,6 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 66.04) (xy 78.74 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "94c44d28-2f73-4e4b-b353-d920680133d4")
-	)
-	(wire
-		(pts
 			(xy 113.03 73.66) (xy 124.46 73.66)
 		)
 		(stroke
@@ -3305,6 +3305,16 @@
 	)
 	(wire
 		(pts
+			(xy 62.23 58.42) (xy 62.23 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dfa5dd25-4e8d-45ad-94ea-c45b9295b96d")
+	)
+	(wire
+		(pts
 			(xy 207.01 107.95) (xy 217.17 107.95)
 		)
 		(stroke
@@ -3372,16 +3382,6 @@
 			(type default)
 		)
 		(uuid "f2a5c4ea-a616-4027-a642-aceff38411cd")
-	)
-	(wire
-		(pts
-			(xy 62.23 66.04) (xy 62.23 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f2f2dfb8-dd9b-4472-996a-dee0acb92fcd")
 	)
 	(wire
 		(pts
@@ -3776,7 +3776,7 @@
 		(uuid "b4e72de9-3dcc-4e39-8c0a-ff3ca2386b09")
 	)
 	(label "YBR"
-		(at 74.93 66.04 0)
+		(at 74.93 58.42 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4741,7 +4741,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 78.74 58.42 90)
+		(at 78.74 66.04 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4749,7 +4749,7 @@
 		(dnp no)
 		(uuid "2d52e09a-f6f0-4e25-9781-057909e8c5d1")
 		(property "Reference" "TP5"
-			(at 72.898 58.42 90)
+			(at 72.898 66.04 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4757,7 +4757,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 69.85 54.356 90)
+			(at 69.85 61.976 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4766,7 +4766,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Plated_Hole_D2.0mm"
-			(at 78.74 53.34 0)
+			(at 78.74 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4775,7 +4775,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 78.74 53.34 0)
+			(at 78.74 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4784,7 +4784,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 78.74 58.42 0)
+			(at 78.74 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5216,7 +5216,7 @@
 		(dnp no)
 		(uuid "46713cc8-8e57-4208-a210-62a431445862")
 		(property "Reference" "TP4"
-			(at 72.898 56.134 90)
+			(at 72.898 55.626 90)
 			(effects
 				(font
 					(size 1.27 1.27)
